@@ -1,3 +1,5 @@
+//another animated collage in front of Havana's cigar factory. Experimenting with blending layers within the animation.
+
 let EL1;
 let EL2;
 let dad;
